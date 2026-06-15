@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Escolar - Emprego para Jovens</title>
+</head>
+
+
+<body bgcolor="white">
+
+
+    <center>
+        <h1><font color="#FFB6C1">Os Desafios dos Jovens na Busca por Emprego</font></h1>
+        <h3><font color="gray">Conheça os desafios e as oportunidades para ingressar no mercado de trabalho</font></h3>
+    </center>
+
+
+    <hr>
+
+
+    <p>
+        Atualmente, muitos jovens enfrentam desafios para conseguir o primeiro emprego.
+        A falta de experiência profissional é uma das principais dificuldades encontradas,
+        já que diversas empresas exigem conhecimentos e habilidades que ainda estão sendo desenvolvidos.
+    </p>
+
+
+    <p>
+        Mesmo diante desses obstáculos, existem oportunidades para quem busca se preparar.
+        Cursos profissionalizantes, programas de estágio e iniciativas de jovem aprendiz
+        ajudam a adquirir experiência e aumentar as chances de ingresso no mercado de trabalho.
+    </p>
+
+
+    <p>
+        Com dedicação e persistência, os jovens podem superar as dificuldades e conquistar
+        oportunidades que contribuam para seu crescimento pessoal e profissional,
+        construindo um futuro promissor e cheio de possibilidades.
+    </p>
+
+
+    <hr>
+
+
+    <h2><font color="#FFB6C1">Saiba Mais</font></h2>
+
+
+    <p>
+        Para encontrar oportunidades de emprego, estágio e programas de jovem aprendiz,
+        pesquise em sites de vagas, participe de cursos de capacitação e acompanhe
+        programas voltados para a inserção de jovens no mercado de trabalho.
+    </p>
+
+
+    <p>
+        <a href="https://www.gov.br/trabalho-e-emprego" target="_blank">
+            Clique aqui para saber mais sobre oportunidades de emprego para jovens
+        </a>
+    </p>
+
+
+    <hr>
+
+
+    <center>
+        <h3><font color="#FFB6C1">Portal Escolar</font></h3>
+        <p>Informação, educação e oportunidades para os jovens.</p>
+    </center>
+
+
+</body>
+</html>
